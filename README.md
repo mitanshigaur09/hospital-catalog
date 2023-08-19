@@ -22,7 +22,7 @@ Welcome to Health Catalog, an innovative platform that empowers patients to take
 
 # Custom Tables
 <ul>
-  <li>**Doctor Table:**</li> This table includes important information about the doctor, such as their name, specialty, phone number, date of hire, and the hospital they work at.
+  <li><b>Doctor Table:</b></li> This table includes important information about the doctor, such as their name, specialty, phone number, date of hire, and the hospital they work at.
     <li>**Hospital Table:**</li> It contains information that includes the name and address of the hospital, the number of available beds and ICU wards, the hospital's phone number, and its type. 
 </ul>
 
