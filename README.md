@@ -1,2 +1,2 @@
-# hospital-catalog
-This project is built upon a service catalog that encompasses a range of hospital services.
+# Hospital Catalog using ServiceNow
+Welcome to Health Catalog, an innovative platform that empowers patients to take charge of their health journey. Our user-friendly interface allows patients to easily schedule appointments tailored to their needs, choosing from a wide range of hospitals. Whether you prefer government or private facilities, our platform allows you to book appointments hassle-free, including services such as ambulances, blood banks, ICU wards, and emergency care.
