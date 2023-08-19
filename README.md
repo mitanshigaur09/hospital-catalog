@@ -12,7 +12,7 @@ Welcome to Health Catalog, an innovative platform that empowers patients to take
   <li>UI Policy</li>
 </ul>
 
-# Major Steps of Hospital Catalog
+# Major Steps in Catalog
 <ul>
   <li>Registration and Check-in</li>
   <li>Hospital Approval</li>
